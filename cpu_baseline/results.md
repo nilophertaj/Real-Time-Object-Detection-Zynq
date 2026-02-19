@@ -9,7 +9,7 @@ Measured Values:
 - Power estimation: 3.58 Watts
   
 Derived Metrics:
-🔌 Power Estimation Logic
+## 🔌 Power Estimation Logic
 
 The implementation runs on a **Zynq-7000 SoC (ARM Cortex-A9)**.
 
