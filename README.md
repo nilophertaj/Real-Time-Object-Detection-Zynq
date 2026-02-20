@@ -111,6 +111,6 @@ This project successfully demonstrates that offloading CNN computation to FPGA f
 **Arm Bharat AI SoC Challenge – Problem Statement 5**
 ## Team Details: 
 - Team Members : Nilopher Taj B, Rupesh K, Gayathri K
-- Mentor : Avudaiyammal
+- Mentor : Dr.R.Avudaiammal, Professor
 - Institute : St. Joseph's College of Engineering, Chennai
 
